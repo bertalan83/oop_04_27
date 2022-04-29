@@ -8,7 +8,6 @@ public class Customer {
 
     public Customer() {
     }
-
     public Customer(Product[] cart) {
         this.cart = cart;
     }

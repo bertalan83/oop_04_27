@@ -1,6 +1,5 @@
 package hu.progmatic.shop;
 
-// gyerekosztaly / szarmaztatott osztaly
 public class Bread extends Food {
 
     private boolean isWhite;

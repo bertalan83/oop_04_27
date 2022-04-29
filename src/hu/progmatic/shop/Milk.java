@@ -4,8 +4,7 @@ public class Milk extends Drink {
 
     private double fat;
 
-    public Milk(){
-
+    public Milk() {
     }
 
     public Milk(double quantity, String unitType, boolean isLongLife, int price, double fat) {

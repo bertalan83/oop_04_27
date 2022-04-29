@@ -5,7 +5,6 @@ public class Cereal extends Food {
     private double sugar;
 
     public Cereal() {
-
     }
 
     public Cereal(double quantity, String unitType, boolean isLongLife, int price, double sugar) {

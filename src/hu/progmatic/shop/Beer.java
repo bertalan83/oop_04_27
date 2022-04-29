@@ -5,7 +5,6 @@ public class Beer extends Drink {
     private double alchololPercentage;
 
     public Beer() {
-
     }
 
     public Beer(double quantity, String unitType, boolean isLongLife, int price, double alchololPercentage) {

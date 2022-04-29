@@ -2,9 +2,6 @@ package hu.progmatic.shop;
 
 public class Product {
 
-    // lathatosagi jelzo, static kulcsszo, adattipus, nev
-    public static int foodCounter;
-
     protected double quantity;
     protected String unitType ;
     protected boolean isLongLife;
