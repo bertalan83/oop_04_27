@@ -29,6 +29,7 @@ public class Cereal extends Food {
                 "\nquantity = " + quantity +
                 "\nunitType = '" + unitType + '\'' +
                 "\nisLongLife = " + isLongLife +
+                "\nproduct category = " + category +
                 "\nprice each = " + price +
                 "\nprice = " + finalPrice;
     }

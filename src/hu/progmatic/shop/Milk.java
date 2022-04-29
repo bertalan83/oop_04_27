@@ -29,6 +29,7 @@ public class Milk extends Drink {
                 "\nquantity = " + quantity +
                 "\nunitType = '" + unitType + '\'' +
                 "\nisLongLife = " + isLongLife +
+                "\nproduct category = " + category +
                 "\nprice per litre = " + price +
                 "\nprice = " + finalPrice;
     }

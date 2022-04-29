@@ -2,6 +2,8 @@ package hu.progmatic.shop;
 
 public class Drink extends Product {
 
+    protected final String category = "drink";
+
     public Drink() {
     }
 

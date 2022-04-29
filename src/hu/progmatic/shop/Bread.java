@@ -34,6 +34,7 @@ public class Bread extends Food {
                 "\nquantity = " + quantity +
                 "\nunitType = '" + unitType + '\'' +
                 "\nisLongLife = " + isLongLife +
+                "\nproduct category = " + category +
                 "\nprice per kg = " + price +
                 "\nprice = " + finalPrice;
     }
