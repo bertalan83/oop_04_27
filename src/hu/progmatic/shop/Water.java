@@ -24,10 +24,10 @@ public class Water extends Drink {
     public String toString() {
         return "\n=================" +
                 "\nWater" +
+                "\nisSparkling = " + isSparkling +
                 "\nquantity = " + quantity +
                 "\nunitType = '" + unitType + '\'' +
                 "\nisLongLife = " + isLongLife +
-                "\nisSparkling = " + isSparkling +
                 "\nprice per litre = " + price +
                 "\nprice = " + finalPrice;
     }

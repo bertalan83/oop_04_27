@@ -30,6 +30,7 @@ public class Bread extends Food {
     public String toString() {
         return "\n=================" +
                 "\nBread" +
+                "\nisWhite = " + isWhite +
                 "\nquantity = " + quantity +
                 "\nunitType = '" + unitType + '\'' +
                 "\nisLongLife = " + isLongLife +

@@ -4,35 +4,7 @@ import hu.progmatic.shop.*;
 
 public class Main {
 
-      /*
-      elelmiszerek:
-           kenyer
-           alma
-           tej
-           cukor
-           sor
-       vasarlo:
-           vasarlo
-               private Food[] cart;
-               */
-
-
     public static void main(String[] args) {
-
-    /*    Product food1 = new Product();
-        Product food2 = new Product();
-
-        Bread bread = new Bread();
-
-        Milk milk = new Milk();
-
-        System.out.println(milk.getFat());
-
-        Product[] foods = {food1, food2, bread};
-
-        System.out.println(food1.foodCounter);
-        System.out.println(food2.foodCounter);
-        System.out.println(Product.foodCounter);*/
 
         Avocado avocado = new Avocado(5, "each", false, 5, true);
         Beer beer = new Beer(8, "litre", true, 5, 8);
@@ -68,12 +40,6 @@ public class Main {
                 customer1,
                 customer2,
                 customer3
-        };
-
-        Object[] carts = {
-                cart1,
-                cart2,
-                cart3
         };
 
         int counter = 0;
